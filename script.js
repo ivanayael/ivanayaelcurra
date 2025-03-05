@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const validCommands = [
         'dir','help','readbio', 'experience', 'projects', 'collaborations', 'skills', 'education', 'contact', 'cls', 'mail', 'play', 'studies', 'read',
-        'play', 'rootsearch', 'emp', 'view', 'dial'
+        'play', 'rootsearch', 'emp', 'view', 'dial', 'home'
     ];
 
     userInput.addEventListener('keydown', (event) => {
